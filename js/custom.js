@@ -555,18 +555,6 @@
         });
 
 
-        /*
-        Window Load
-        ============================*/
-        $(window).on("load", function() {
-            /*
-            Preeloader
-            ============================*/
-            $("#preloader").fadeOut();
-            $("#preloader-status").delay(200).fadeOut("slow");
-            $("body").delay(200).css({"overflow-x": "hidden"});
-
-        });
         
     });
 })(jQuery);

@@ -3111,7 +3111,7 @@ body.admin-bar .header-menu-area.sticky_menu {
     transform: rotate(359deg);
   }
 }
-#preloader {
+/* #preloader {
   position: fixed;
   top: 0;
   left: 0;
@@ -3130,7 +3130,7 @@ body.admin-bar .header-menu-area.sticky_menu {
   position: absolute;
   left: 50%;
   top: 50%;
-}
+} */
 
 .scrollup-wrapper {
   position: fixed;
