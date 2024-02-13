@@ -1,0 +1,13 @@
+.team-area-slider-wrapper {
+  position: relative;
+  overflow: hidden;
+
+  .slick-list {
+    margin: 0 -2.5px;
+
+    .slick-slide {
+      margin: 0 2.5px;
+    }
+  }
+ 
+}
